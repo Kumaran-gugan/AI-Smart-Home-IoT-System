@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Home IoT System",
+  "description": "An intelligent, production-ready AI Smart Home IoT platform featuring real-time device control, live sensor telemetry, Gemini AI assistant, custom automations, security suite, energy management, weather integration, and MQTT setup.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
