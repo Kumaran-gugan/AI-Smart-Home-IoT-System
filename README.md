@@ -24,7 +24,8 @@ An intelligent Smart Home platform that enables real-time monitoring, remote dev
 
 ### 🚀 Website
 
-👉 https://your-smart-home.vercel.app
+
+👉 **Live Demo:** https://ai-smart-home-io-t-system.vercel.app
 
 ### 💻 GitHub Repository
 
